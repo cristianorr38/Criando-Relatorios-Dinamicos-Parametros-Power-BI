@@ -1,5 +1,6 @@
 # 📊 Desafio DIO - Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
 
+[![Power BI](https://img.shields.io/badge/Power%20BI-2.120%2B-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Release](https://img.shields.io/badge/release-v1.0-blue)
 ![Progress](https://img.shields.io/badge/progresso-100%25-success)
